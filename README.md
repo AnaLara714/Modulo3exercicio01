@@ -8,13 +8,13 @@
 
 ### Layout do projeto 
 
-<img src="https://discord.com/channels/867480197598281801/867480198039732236/950119341712638043" alt="cobrinha">
+<img src="https://discord.com/channels/867480197598281801/867480198039732236/950119341712638043" alt="image">
 
 
 ### Tecnologias utilizadas
-<li>
-  <ul>HTML</ul>
-  <ul>CSS</ul>
-  <ul>ReactJS</ul>
- <ul>TypeScript.</ul>
-</li>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>ReactJS</li>
+ <li>TypeScript.</li>
+</ul>
