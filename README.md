@@ -8,7 +8,7 @@
 
 ### Layout do projeto 
 
-<img src="https://discord.com/channels/867480197598281801/867480198039732236/950119341712638043" alt="image">
+<img src="https://cdn.discordapp.com/attachments/867480198039732236/950119341549051904/ativdadeDFEmodulo3.png" alt="image">
 
 
 ### Tecnologias utilizadas
@@ -16,5 +16,5 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>ReactJS</li>
- <li>TypeScript.</li>
+  <li>TypeScript</li>
 </ul>
